@@ -45,5 +45,5 @@ def rev_arr(a):
 
 a = [2, 3, 4, 56, 23]
 print(rev_arr(a))   
-
+ 
 o/p : [23, 56, 4, 3, 2]
